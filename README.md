@@ -1,4 +1,7 @@
+# Unsupervised-Learning
+This project explores the application of unsupervised learning techniques to identify patterns, groupings, and structures within unlabeled data. The focus is on discovering hidden patterns and relationships in data without predefined labels.
 
+##Features
 - This project consists of two datasets.
 - Treating missing values and duplicate values with suitable approaches.
 - Understanding significant insights in the data through exploratory data analysis (EDA).
